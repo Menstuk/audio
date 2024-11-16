@@ -1,0 +1,141 @@
+# Python files
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# Pytest
+.pytest_cache/
+
+# mypy
+.mypy_cache/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# poetry
+poetry.lock
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*~
+
+# macOS
+.DS_Store
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.bak
+
+# Local debugging
+debug.log
+
+# MATLAB files
+
+# MATLAB binary files
+*.mex*         # Compiled MATLAB files
+*.mlappinstall # MATLAB app installation files
+*.mlpkginstall # MATLAB package installation files
+
+# MATLAB preferences and history
+*.asv          # Autosave files
+*.m~           # Backup files
+*.mdl.autosave # Simulink autosave files
+*.slx.autosave # Simulink autosave files
+*.sldd.autosave
+
+# MATLAB generated files
+*.slxc         # Generated code files from Simulink
+*.slprj/       # Simulink project folder
+*.simlog       # Simulink simulation logs
+*.mexa64       # Compiled MATLAB files
+*.mexmaci64    # Compiled MATLAB files
+*.mexw64       # Compiled MATLAB files
+*.mdlp         # Protected Simulink models
+*.mldatx       # Data dictionary files
+
+# MATLAB code generation
+codegen/
+mex_code/
+
+# MATLAB IDE files
+*.mlsettings   # MATLAB settings files
+
+# MATLAB figures and GUIs
+*.fig          # MATLAB figure files
+*.mat          # MATLAB data files (only if not needed for versioning)
+
+# MATLAB app packaging
+*.mlapp
+
+# MATLAB projects
+*.prj          # Project files
+
+# Temporary and lock files
+*.tmp
+*.log
+*.bak
+*.autosave
+*.backup
